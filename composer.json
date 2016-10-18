@@ -1,0 +1,12 @@
+{
+    "name": "cristian/roman-numbers",
+    "require": {
+        "phpspec/phpspec": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "cristian",
+            "email": "cristian.fonolla@gmail.com"
+        }
+    ]
+}
